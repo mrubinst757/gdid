@@ -1,0 +1,26 @@
+{
+    "id": "DFA6EA1C",
+    "path": "~/GDiD/gdid/R/gdid.R",
+    "project_path": "R/gdid.R",
+    "type": "r_source",
+    "hash": "3822247590",
+    "contents": "",
+    "dirty": false,
+    "created": 1693325988053.0,
+    "source_on_save": false,
+    "relative_order": 2,
+    "properties": {
+        "source_window_id": "",
+        "Source": "Source",
+        "cursorPosition": "676,38",
+        "scrollLine": "0"
+    },
+    "folds": "957|46|992|0|\n",
+    "lastKnownWriteTime": 1694194753,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1694194753895,
+    "read_only": false,
+    "read_only_alternatives": []
+}
